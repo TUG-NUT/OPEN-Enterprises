@@ -178,7 +178,16 @@ data = [
         "description": "A tripwire trap that, when activated, spawns a bear",
         "img": "./images/bear oven.jpg",
         "visible": true
-    },            
+    },    
+    {
+        "title": "Wand of Switcheroo",
+        "cost": 650,
+        "quantity": 1,
+        "overview": "Wanna trade?",
+        "description": "When pointed at a creature of similar size (no more than one size category smaller or larger than you) within 120 ft., the holder will switch places with that target, if the target is willing. If the target is unwilling, it must succeed a DC 17 Constitution save to resist. One charge per long rest.",
+        "img": "https://5e.tools/img/items/DMG/Wand%20of%20Polymorph.webp",
+        "visible": false
+    },
     {
         "title": "Sample",
         "cost": 0,
