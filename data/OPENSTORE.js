@@ -171,7 +171,7 @@ data = [
         "visible": true
     },
     {
-          "title": "Reverse Bear Trap",
+          "title": "Bear Trap",
         "cost": 600,
         "quantity": 1,
         "overview": "Hey, Bear!",
