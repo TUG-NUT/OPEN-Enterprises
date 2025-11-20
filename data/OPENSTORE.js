@@ -176,7 +176,7 @@ data = [
         "quantity": 1,
         "overview": "Hey, Bear!",
         "description": "A tripwire trap that, when activated, spawns a bear",
-        "img": "./images/",
+        "img": "./images/bear oven.jpg",
         "visible": true
     },            
     {
