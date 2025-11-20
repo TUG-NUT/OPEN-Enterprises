@@ -179,7 +179,7 @@ data = [
         "img": "./images/",
         "visible": true
     },            
-    ]
+    {
         "title": "Sample",
         "cost": 0,
         "quantity": 0,
