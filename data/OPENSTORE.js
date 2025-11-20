@@ -309,7 +309,7 @@ data = [
         "quantity": 1,
         "overview": `You dont want to know what's there anyways...`,
         "description": `A large webbing that can cover a passage equal or smaller than 12' x 12'. The webbing is an unnaturally dark shadow, and when a creature tries to walk through it, they come out the other side on the same side they entered. `,
-        "img": "./images/",
+        "img": "./images/matrix text.webp",
         "visible": true
     },
     {
